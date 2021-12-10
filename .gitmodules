@@ -1,0 +1,36 @@
+[submodule "subjects_source/DAAP/forked-daapd"]
+	path = subjects_source/DAAP/forked-daapd
+	url = https://github.com/ejurgensen/forked-daapd.git
+[submodule "subjects_source/DICOM/dcmtk"]
+	path = subjects_source/DICOM/dcmtk
+	url = https://github.com/DCMTK/dcmtk
+[submodule "subjects_source/DNS/dnsmasq"]
+	path = subjects_source/DNS/dnsmasq
+	url = git://thekelleys.org.uk/dnsmasq.git
+[submodule "subjects_source/DTLS/tinydtls"]
+	path = subjects_source/DTLS/tinydtls
+	url = https://github.com/assist-project/tinydtls-fuzz.git
+[submodule "subjects_source/FTP/LightFTP"]
+	path = subjects_source/FTP/LightFTP
+	url = https://github.com/hfiref0x/LightFTP.git
+[submodule "subjects_source/FTP/proftpd"]
+	path = subjects_source/FTP/proftpd
+	url = https://github.com/proftpd/proftpd.git
+[submodule "subjects_source/FTP/pure-ftpd"]
+	path = subjects_source/FTP/pure-ftpd
+	url = https://github.com/jedisct1/pure-ftpd.git
+[submodule "subjects_source/RTSP/live555"]
+	path = subjects_source/RTSP/live555
+	url = https://github.com/rgaufman/live555.git
+[submodule "subjects_source/SIP/kamailio"]
+	path = subjects_source/SIP/kamailio
+	url = https://github.com/kamailio/kamailio.git
+[submodule "subjects_source/SMTP/exim"]
+	path = subjects_source/SMTP/exim
+	url = https://github.com/Exim/exim
+[submodule "subjects_source/SSH/openssh"]
+	path = subjects_source/SSH/openssh
+	url = https://github.com/vegard/openssh-portable.git
+[submodule "subjects_source/TLS/openssl"]
+	path = subjects_source/TLS/openssl
+	url = https://github.com/openssl/openssl.git
